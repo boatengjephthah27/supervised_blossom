@@ -11,7 +11,7 @@ This dataset consist of 1190 instances and 11 features.
 
 Source: https://www.kaggle.com/datasets/mexwell/heart-disease-dataset?rvi=1
 
-## Data Dictionary:**
+## Data Dictionary:
 
 *   **Sex**     
 *       1 = male, 
